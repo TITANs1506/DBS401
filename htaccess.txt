@@ -1,0 +1,7 @@
+<Files .htaccess>
+    Deny from all
+</Files>
+
+<FilesMatch "\.txt$">
+    Deny from all
+</FilesMatch>

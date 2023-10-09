@@ -1,2 +1,3 @@
 # DBS401
-Just a solo DBS401 lab
+Lab from DBS401
+RUN WITH ADMIN
